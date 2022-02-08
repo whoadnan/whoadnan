@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - :telescope: I’m currently working on ...ShadSpace
-- :seedling: I’m currently learning ...Dart
+- :seedling: I’m currently learning ...Swift
 - :people_with_bunny_ears_partying: I’m looking to collaborate on ...Youtube
 - :thinking: I’m looking for help with ...
 - :speech_balloon: Ask me about ... Anything
