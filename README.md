@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/mohammad-adnan-2124t/">
+<a href="https://www.linkedin.com/in/dev-adnan/">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
