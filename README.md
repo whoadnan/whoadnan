@@ -5,8 +5,8 @@ Here are some ideas to get you started:
 <!-- - :telescope: I’m currently working on ... -->
 - :seedling: I’m currently learning Backend Development
 <!-- - :thinking: I’m looking for help with ... -->
-- :speech_balloon: Ask me about ... Anything
-- :mailbox: How to reach me: ... whoadnan7@gmail.com
+- :speech_balloon: Ask me about Anything
+- :mailbox: How to reach me: whoadnan7@gmail.com
 <!-- - :smile: Pronouns: ... -->
 <!-- - :zap: Fun fact: ... -->
 
