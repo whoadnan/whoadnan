@@ -3,8 +3,8 @@
 Here are some ideas to get you started:
 
 <!-- - :telescope: I’m currently working on  -->
-- :seedling: I’m currently learning Backend Development
 <!-- - :thinking: I’m looking for help with ... -->
+- :seedling: I’m currently learning Backend Development
 - :speech_balloon: Ask me about Anything
 - :mailbox: How to reach me: whoadnan7@gmail.com
 - :zap: Fun fact: I collect rupee coins
