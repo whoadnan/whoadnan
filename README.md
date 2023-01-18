@@ -2,13 +2,12 @@
 
 Here are some ideas to get you started:
 
-<!-- - :telescope: I’m currently working on ... -->
+<!-- - :telescope: I’m currently working on  -->
 - :seedling: I’m currently learning Backend Development
 <!-- - :thinking: I’m looking for help with ... -->
 - :speech_balloon: Ask me about Anything
 - :mailbox: How to reach me: whoadnan7@gmail.com
-<!-- - :smile: Pronouns: ... -->
-<!-- - :zap: Fun fact: ... -->
+- :zap: Fun fact: I collect rupee coins
 
 
  <img src="https://github-readme-stats.vercel.app/api?username=whoadnan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
