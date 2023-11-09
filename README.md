@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/wh0adnan/">
+<a href="https://twitter.com/ehhbcdef/">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
